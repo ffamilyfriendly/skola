@@ -13,6 +13,7 @@
 ## Retorik
 - [X] Talkshow
 - [X] Talanalys
+- [X] informativt tal
 ## Samhäll
 - [X] Folkmord
 ## Svenska
