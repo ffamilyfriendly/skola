@@ -7,7 +7,7 @@
 - [X] Skador+skadeförebyggnad
 - [ ] Film
 ## Kemi
-- [ ] Rekationsmekanismer
+- [X] Rekationsmekanismer
 ## Religion
 - [X] Intro
 ## Retorik
