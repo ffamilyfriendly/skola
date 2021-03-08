@@ -9,10 +9,10 @@
 ## Kemi
 - [ ] Rekationsmekanismer
 ## Religion
-- [ ] Intro
+- [X] Intro
 ## Retorik
-- [ ] Talkshow
-- [ ] Talanalys
+- [X] Talkshow
+- [X] Talanalys
 ## Samhäll
-- [ ] Folkmord
+- [X] Folkmord
 ## Svenska
